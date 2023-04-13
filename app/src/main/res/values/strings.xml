@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice3</string>
+    <string-array name="category">
+        <item>Mua sắm</item>
+        <item>Tiền ăn</item>
+        <item>Tiền nhà</item>
+        <item>Tiền điện</item>
+        <item>Tiền nước</item>
+        <item>Tiền đi lại</item>
+    </string-array>
+</resources>
